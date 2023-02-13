@@ -1,2 +1,2 @@
 # sicpjs
-Structure and Interpretation of Computer Programs: JavaScript Edition
+Structure and Interpretation of Computer Programs
